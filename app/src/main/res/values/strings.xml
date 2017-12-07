@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KepoKepo</string>
+    <string name="chat_hint">Say something..</string>
+    <string name="background_image_content_description">Chat background</string>
+</resources>
